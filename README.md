@@ -1,0 +1,2 @@
+# ProjectGalgalimclient
+Association management system
